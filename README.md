@@ -19,8 +19,7 @@ It tracks **Profit, Sales, Quantity Ordered, and Discounts** while breaking them
 
 ## Files in this Repository
 - `Sales_Analysis.pbix` → Power BI Project File  
-- `Dashboard_Screenshot.png` → Dashboard Preview  
-- `Dashboard.pdf` → Exported Report  
+- `Dashboard.png` → Dashboard Preview 
 - `Problems_Solved.pdf` → Key business problems addressed  
 
 ##  Dashboard Preview
