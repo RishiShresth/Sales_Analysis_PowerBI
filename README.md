@@ -24,7 +24,7 @@ It tracks **Profit, Sales, Quantity Ordered, and Discounts** while breaking them
 - `Problems_Solved.pdf` → Key business problems addressed  
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Problems Resolved
 See **Problems_Solved.pdf** for the key business questions answered through this dashboard.  
